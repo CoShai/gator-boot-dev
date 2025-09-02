@@ -51,38 +51,38 @@ gator addfeed "exmaple.com/rss"
 
 - help - show list of commands
 ```
-"gator help"
+gator help
 ```
 - register - create user
 ```
-"gator register <name>"
+gator register <name>
 ```
 - login - login user
 ```
-"gator login <name>"
+gator login <name>
 ```
 - users - show registered users
 ```
-"gator users"
+gator users"
 ```
 - addfeed - add feed to database
 ```
-"gator addfeed <name> <url>"
+gator addfeed <name> <url>
 ```
 - follow - current user follow feed
 ```
-"gator follow <url>"
+gator follow <url>
 ```
 - feeds - show feeds available
 ```
-"gator feeds"
+gator feeds
 ```
 - following - show feeds current user follow
 ```
-"gator following"
+gator following
 ```
 - agg - fetching feeds every time_between_reqs
 ```
-"gator agg <time_between_reqs>"
+gator agg <time_between_reqs>
 ```
 
