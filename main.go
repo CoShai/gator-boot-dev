@@ -49,7 +49,4 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	//fmt.Println("UserName: " + cfg.CurrentUserName)
-	//fmt.Println("Db url: " + cfg.DbUrl)
 }
