@@ -1,9 +1,9 @@
 
-gator is blog aggerator in go for rss feeds
+## Gator, built with Go, is a blog aggregator that pulls content from RSS feeds.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
